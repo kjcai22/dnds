@@ -1,0 +1,15 @@
+I am changing your repository by adding a text file. I also branched it and am I am working on my own branch now.
+
+I used the following commands:
+
+cd /Users/megaptera/Desktop
+mkdir Kevin_code
+cd Kevin_code
+ls
+git clone https://github.com/kjcai22/dnds
+cd dnds
+git branch
+git branch twig_Laetitia
+git checkout twig_Laetitia
+git branch # now the star is at my new twig
+
