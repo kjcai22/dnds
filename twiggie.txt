@@ -13,3 +13,10 @@ git branch twig_Laetitia
 git checkout twig_Laetitia
 git branch # now the star is at my new twig
 
+# Kevin had to invite me as a collaborator.
+
+# Then I pushed my commits to his GitHub repository:
+git push -u origin twig_Laetitia
+# type in username
+# type in password
+
